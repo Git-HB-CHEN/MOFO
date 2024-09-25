@@ -1,0 +1,34 @@
+{
+    "Train":[
+        {
+            "USImage":"Train/USImage/benign (7).png",
+            "Mask":"Train/Mask/benign (7).png"
+        },
+        {
+            "USImage":"Train/USImage/benign (8).png",
+            "Mask":"Train/Mask/benign (8).png"
+        },
+
+    ],
+    "Valid":[
+        {
+            "USImage":"Valid/USImage/benign (1).png",
+            "Mask":"Valid/Mask/benign (1).png"
+        },
+        {
+            "USImage":"Valid/USImage/benign (4).png",
+            "Mask":"Valid/Mask/benign (4).png"
+        },
+
+    ],
+    "Test":[
+        {
+            "USImage":"Test/USImage/benign (2).png",
+            "Mask":"Test/Mask/benign (2).png"
+        },
+        {
+            "USImage":"Test/USImage/benign (3).png",
+            "Mask":"Test/Mask/benign (3).png"
+        },
+    ]
+}

@@ -1,0 +1,6 @@
+timm=0.9.7
+pillow=10.0.1
+tqdm=4.65.0
+numpy=1.26.0
+opencv-python=4.9.0.80
+einops=0.7.0

@@ -1,0 +1,10 @@
+BUSI:
+  Dataset Cohort: Dataset_Breast.json
+  Dataset ID: breast
+  Dataset Path: Dataset_Breast
+  Dataset Sequence: 0
+TUSI:
+  Dataset Cohort: Dataset_Thyroid.json
+  Dataset ID: thyroid
+  Dataset Path: Dataset_Thyroid
+  Dataset Sequence: 1
