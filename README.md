@@ -8,7 +8,7 @@
 
 ## 🔥🔥🔥
 
-#### Updated on 2024.10.06
+#### Updated on Oct. 6, 2024
 
 </div>
 
@@ -21,7 +21,7 @@
 
 This repository provides the official implementation of Multi-Organ FOundation (MOFO) Model.
 
-**Multi-Organ Foundation Model for Universal Ultrasound Image Segmentation with Task Prompt and Anatomical Prior**
+**Multi-Organ Foundation Model for Universal Ultrasound Image Segmentation with Task Prompt and Anatomical Prior** (IEEE Transaction on Medical Imaging, *Under Review*)
 
 ### Key Features
 
@@ -82,7 +82,7 @@ The MOFO comprises prompt, vision, and prior branches. The vision branch extract
    ```
 
 ## ✨Direct Inference in Your Ultrsound Images
-1. Download the [Weight](https://drive.google.com/drive/folders/1SpBRMuM3hCZj9RhriHkMrMIGMcT0TamA?usp=drive_link) of the MOFO
+1. Download the [Weights](https://drive.google.com/drive/folders/1SpBRMuM3hCZj9RhriHkMrMIGMcT0TamA?usp=drive_link) of the MOFO
 
 2. Place your ultrasound images in the `examples` folder
 
